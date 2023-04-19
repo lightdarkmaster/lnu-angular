@@ -1,0 +1,5 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+    background: linear-gradient(to right, steelblue, rgba(70, 131, 180, 0.269));
+}
